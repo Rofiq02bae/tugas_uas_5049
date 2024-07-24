@@ -1,0 +1,381 @@
+.materi-default,
+.materi-default * {
+  box-sizing: border-box;
+}
+.materi-default {
+  height: 1080px;
+  position: relative;
+}
+.group-48 {
+  position: absolute;
+  inset: 0;
+}
+.group-44 {
+  width: 1920px;
+  height: 1080px;
+  position: static;
+}
+.p {
+  width: 1920px;
+  height: 1080px;
+  position: static;
+}
+.background {
+  width: 1920px;
+  height: 1080px;
+  position: static;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 8, 84, 1) 0%,
+    rgba(152, 0, 119, 1) 100%
+  );
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.group-42 {
+  width: 1609.41px;
+  height: 84px;
+  position: static;
+}
+.group-8 {
+  width: 1609.41px;
+  height: 84px;
+  position: static;
+}
+.rectangle-2 {
+  background: #fffbfb;
+  border-radius: 10px;
+  width: 83.82%;
+  height: 7.78%;
+  position: absolute;
+  right: 7.45%;
+  left: 8.73%;
+  bottom: 84.58%;
+  top: 7.64%;
+}
+.group-7 {
+  width: 4.02%;
+  height: 4.31%;
+  position: absolute;
+  right: 85.88%;
+  left: 10.1%;
+  bottom: 86.25%;
+  top: 9.44%;
+  overflow: visible;
+}
+.materi {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  right: 75.07%;
+  left: 15.54%;
+  width: 9.38%;
+  bottom: 85.97%;
+  top: 9.72%;
+  height: 4.31%;
+}
+.group-49 {
+  width: 1612.2px;
+  height: 708px;
+  position: static;
+}
+.rectangle-11 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 52.88%;
+  height: 31.67%;
+  position: absolute;
+  right: 7.43%;
+  left: 39.69%;
+  bottom: 42.78%;
+  top: 25.56%;
+}
+.rectangle-13 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 29.33%;
+  height: 65.56%;
+  position: absolute;
+  right: 62.07%;
+  left: 8.6%;
+  bottom: 8.89%;
+  top: 25.56%;
+}
+.rectangle-12 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 52.88%;
+  height: 31.25%;
+  position: absolute;
+  right: 7.43%;
+  left: 39.69%;
+  bottom: 8.89%;
+  top: 59.86%;
+}
+.select-or-drag {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 27.57%;
+  left: 58.36%;
+  width: 14.08%;
+  bottom: 11.39%;
+  top: 84.03%;
+  height: 4.58%;
+}
+.materi-1 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 74%;
+  left: 11.14%;
+  width: 14.86%;
+  bottom: 65.28%;
+  top: 30.14%;
+  height: 4.58%;
+}
+.materi-12 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 74%;
+  left: 11.14%;
+  width: 14.86%;
+  bottom: 60.69%;
+  top: 34.72%;
+  height: 4.58%;
+}
+.materi-13 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 74%;
+  left: 11.14%;
+  width: 14.86%;
+  bottom: 56.11%;
+  top: 39.31%;
+  height: 4.58%;
+}
+.materi-14 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 74%;
+  left: 11.14%;
+  width: 14.86%;
+  bottom: 51.53%;
+  top: 43.89%;
+  height: 4.58%;
+}
+.materi-15 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 74%;
+  left: 11.14%;
+  width: 14.86%;
+  bottom: 42.36%;
+  top: 53.06%;
+  height: 4.58%;
+}
+.materi-16 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 74%;
+  left: 11.14%;
+  width: 14.86%;
+  bottom: 46.94%;
+  top: 48.47%;
+  height: 4.58%;
+}
+.keterangan {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 44.67%;
+  left: 41.64%;
+  width: 13.69%;
+  bottom: 67.92%;
+  top: 27.5%;
+  height: 4.58%;
+}
+.group-45 {
+  width: 8.8%;
+  height: 13.33%;
+  position: absolute;
+  right: 30.21%;
+  left: 61%;
+  bottom: 17.78%;
+  top: 68.89%;
+  overflow: visible;
+}
+.frame-8 {
+  border-radius: 10px;
+  width: 27.76%;
+  height: 5.97%;
+  position: absolute;
+  right: 63.64%;
+  left: 8.6%;
+  bottom: 76.67%;
+  top: 17.36%;
+  overflow: hidden;
+}
+.frame-2 {
+  background: #ffffff;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.kelas {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}
+.group-55 {
+  flex-shrink: 0;
+  width: 17px;
+  height: 17px;
+  position: relative;
+  overflow: visible;
+}
+.frame-7 {
+  background: #ffffff;
+  width: 284px;
+  height: 199px;
+  position: absolute;
+  left: 0px;
+  top: 52px;
+}
+.frame-3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.d-3-ti-01 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 43px;
+}
+.d-3-ti-02 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}
+.frame-5 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 86px;
+}
+.d-3-mi-01 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}
+.frame-6 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 129px;
+}
+.d-3-mi-02 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}

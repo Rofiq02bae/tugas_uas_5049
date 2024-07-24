@@ -1,0 +1,712 @@
+.presensi-no-code-default,
+.presensi-no-code-default * {
+  box-sizing: border-box;
+}
+.presensi-no-code-default {
+  height: 1080px;
+  position: relative;
+}
+.presensi {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-48 {
+  position: absolute;
+  inset: 0;
+}
+.group-44 {
+  width: 1920px;
+  height: 1080px;
+  position: static;
+}
+.p {
+  width: 1920px;
+  height: 1080px;
+  position: static;
+}
+.background {
+  width: 1920px;
+  height: 1080px;
+  position: static;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 8, 84, 1) 0%,
+    rgba(152, 0, 119, 1) 100%
+  );
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: -0.78%;
+  left: 0.78%;
+  bottom: 0.14%;
+  top: -0.14%;
+}
+.group-42 {
+  width: 1609.41px;
+  height: 84px;
+  position: static;
+}
+.group-8 {
+  width: 1609.41px;
+  height: 84px;
+  position: static;
+}
+.rectangle-2 {
+  background: #fffbfb;
+  border-radius: 10px;
+  width: 83.82%;
+  height: 7.78%;
+  position: absolute;
+  right: 6.67%;
+  left: 9.51%;
+  bottom: 84.72%;
+  top: 7.5%;
+}
+.group-7 {
+  width: 4.02%;
+  height: 4.31%;
+  position: absolute;
+  right: 85.1%;
+  left: 10.88%;
+  bottom: 86.39%;
+  top: 9.31%;
+  overflow: visible;
+}
+.presensi2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  right: 74.29%;
+  left: 16.32%;
+  width: 9.38%;
+  bottom: 86.11%;
+  top: 9.58%;
+  height: 4.31%;
+}
+.uil-redo {
+  width: 2.35%;
+  height: 3.33%;
+  position: absolute;
+  right: 69.7%;
+  left: 27.96%;
+  bottom: 70%;
+  top: 26.67%;
+  overflow: visible;
+}
+.group-41 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-10 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 82.21%;
+  height: 67.78%;
+  position: absolute;
+  right: 8.31%;
+  left: 9.48%;
+  bottom: 6.94%;
+  top: 25.28%;
+}
+.group-64 {
+  width: 1737.95px;
+  height: 708px;
+  position: static;
+}
+.group-38 {
+  width: 80.9%;
+  height: 65.56%;
+  position: absolute;
+  right: 9.62%;
+  left: 9.48%;
+  bottom: 9.17%;
+  top: 25.28%;
+  overflow: visible;
+}
+.no {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 83.77%;
+  left: 10.26%;
+  width: 5.96%;
+  bottom: 69.44%;
+  top: 27.64%;
+  height: 2.92%;
+}
+._1 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 84.56%;
+  left: 11.05%;
+  width: 4.4%;
+  bottom: 62.78%;
+  top: 34.31%;
+  height: 2.92%;
+}
+._2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 84.56%;
+  left: 11.05%;
+  width: 4.4%;
+  bottom: 59.17%;
+  top: 37.92%;
+  height: 2.92%;
+}
+._3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 84.56%;
+  left: 11.05%;
+  width: 4.4%;
+  bottom: 55.56%;
+  top: 41.53%;
+  height: 2.92%;
+}
+._4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 84.56%;
+  left: 11.05%;
+  width: 4.4%;
+  bottom: 51.94%;
+  top: 45.14%;
+  height: 2.92%;
+}
+._5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 84.56%;
+  left: 11.05%;
+  width: 4.4%;
+  bottom: 48.89%;
+  top: 48.19%;
+  height: 2.92%;
+}
+.nama {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 71.55%;
+  left: 17.6%;
+  width: 10.85%;
+  bottom: 69.44%;
+  top: 27.64%;
+  height: 2.92%;
+}
+.as-adurrofiq {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 60.31%;
+  left: 17.6%;
+  width: 22.09%;
+  bottom: 62.78%;
+  top: 34.31%;
+  height: 2.92%;
+}
+.as-adurrofiq2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 60.51%;
+  left: 17.4%;
+  width: 22.09%;
+  bottom: 59.17%;
+  top: 37.92%;
+  height: 2.92%;
+}
+.as-adurrofiq3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 60.51%;
+  left: 17.4%;
+  width: 22.09%;
+  bottom: 55.56%;
+  top: 41.53%;
+  height: 2.92%;
+}
+.as-adurrofiq4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 60.51%;
+  left: 17.4%;
+  width: 22.09%;
+  bottom: 51.94%;
+  top: 45.14%;
+  height: 2.92%;
+}
+.as-adurrofiq5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 60.51%;
+  left: 17.4%;
+  width: 22.09%;
+  bottom: 49.03%;
+  top: 48.06%;
+  height: 2.92%;
+}
+._23-01-5049 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 41.45%;
+  left: 40.27%;
+  width: 18.28%;
+  bottom: 62.78%;
+  top: 34.31%;
+  height: 2.92%;
+}
+.kampus {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 24.05%;
+  left: 57.58%;
+  width: 18.38%;
+  bottom: 62.92%;
+  top: 34.17%;
+  height: 2.92%;
+}
+.kampus2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 24.05%;
+  left: 57.58%;
+  width: 18.38%;
+  bottom: 55.69%;
+  top: 41.39%;
+  height: 2.92%;
+}
+.kampus3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 24.05%;
+  left: 57.58%;
+  width: 18.38%;
+  bottom: 48.61%;
+  top: 48.47%;
+  height: 2.92%;
+}
+._08-30 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 3.52%;
+  left: 78.1%;
+  width: 18.38%;
+  bottom: 63.19%;
+  top: 33.89%;
+  height: 2.92%;
+}
+._08-302 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 3.52%;
+  left: 78.1%;
+  width: 18.38%;
+  bottom: 59.44%;
+  top: 37.64%;
+  height: 2.92%;
+}
+._08-303 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 3.71%;
+  left: 77.91%;
+  width: 18.38%;
+  bottom: 55.97%;
+  top: 41.11%;
+  height: 2.92%;
+}
+._08-304 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 3.52%;
+  left: 78.1%;
+  width: 18.38%;
+  bottom: 51.81%;
+  top: 45.28%;
+  height: 2.92%;
+}
+._08-305 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 3.52%;
+  left: 78.1%;
+  width: 18.38%;
+  bottom: 48.47%;
+  top: 48.61%;
+  height: 2.92%;
+}
+.luar-kampus {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 24.05%;
+  left: 57.58%;
+  width: 18.38%;
+  bottom: 59.44%;
+  top: 37.64%;
+  height: 2.92%;
+}
+.luar-kampus2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 24.05%;
+  left: 57.58%;
+  width: 18.38%;
+  bottom: 51.67%;
+  top: 45.42%;
+  height: 2.92%;
+}
+._23-01-50492 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 41.45%;
+  left: 40.27%;
+  width: 18.28%;
+  bottom: 59.03%;
+  top: 38.06%;
+  height: 2.92%;
+}
+._23-01-50493 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 41.45%;
+  left: 40.27%;
+  width: 18.28%;
+  bottom: 55.56%;
+  top: 41.53%;
+  height: 2.92%;
+}
+._23-01-50494 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 41.45%;
+  left: 40.27%;
+  width: 18.28%;
+  bottom: 51.67%;
+  top: 45.42%;
+  height: 2.92%;
+}
+._23-01-50495 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  right: 41.45%;
+  left: 40.27%;
+  width: 18.28%;
+  bottom: 48.61%;
+  top: 48.47%;
+  height: 2.92%;
+}
+.nim {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 47.7%;
+  left: 45.36%;
+  width: 6.94%;
+  bottom: 69.44%;
+  top: 27.64%;
+  height: 2.92%;
+}
+.kehadiran {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 20.53%;
+  left: 57.97%;
+  width: 21.51%;
+  bottom: 71.25%;
+  top: 27.64%;
+  height: 1.11%;
+}
+.waktu {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  left: 78.49%;
+  width: 21.51%;
+  bottom: 71.25%;
+  top: 27.64%;
+  height: 1.11%;
+}
+.group-65 {
+  position: absolute;
+  inset: 0;
+}
+.group-66 {
+  width: 61px;
+  height: 41px;
+  position: static;
+}
+.rectangle-17 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 61px;
+  height: 41px;
+  position: absolute;
+  left: 500px;
+  top: 132px;
+}
+.gg-qr {
+  width: 33px;
+  height: 28px;
+  position: absolute;
+  left: 513px;
+  top: 139px;
+  overflow: visible;
+}
+.frame-8 {
+  border-radius: 10px;
+  width: 284px;
+  height: 43px;
+  position: absolute;
+  left: 97px;
+  top: 130px;
+  overflow: hidden;
+}
+.frame-2 {
+  background: #ffffff;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.kelas {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}
+.group-55 {
+  flex-shrink: 0;
+  width: 17px;
+  height: 17px;
+  position: relative;
+  overflow: visible;
+}
+.frame-7 {
+  background: #ffffff;
+  width: 284px;
+  height: 199px;
+  position: absolute;
+  left: 0px;
+  top: 52px;
+}
+.frame-3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.d-3-ti-01 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 43px;
+}
+.d-3-ti-02 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}
+.frame-5 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 86px;
+}
+.d-3-mi-01 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}
+.frame-6 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 0px;
+  top: 129px;
+}
+.d-3-mi-02 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  height: 23px;
+}
