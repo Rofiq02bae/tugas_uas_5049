@@ -1,0 +1,132 @@
+.login {
+  width: 1020px;
+  height: 720px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid;
+  border-color: #000000;
+  background: linear-gradient(180deg, rgb(0, 8.42, 84.2) 0%, rgb(151.94, 0, 118.51) 100%);
+}
+
+.login .overlap {
+  position: relative;
+  width: 574px;
+  height: 355px;
+  top: 214px;
+  left: 241px;
+  background-color: #fffafa;
+}
+
+.login .kecil {
+  position: absolute;
+  width: 270px;
+  height: 250px;
+  top: 44px;
+  left: 25px;
+  object-fit: cover;
+}
+
+.login .group {
+  position: absolute;
+  width: 193px;
+  height: 99px;
+  top: 69px;
+  left: 332px;
+}
+
+.login .div {
+  position: absolute;
+  width: 194px;
+  height: 44px;
+  top: 0;
+  left: 0;
+}
+
+.login .vector {
+  top: 44px;
+  position: absolute;
+  width: 192px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.login .text-wrapper {
+  position: absolute;
+  width: 86px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .group-2 {
+  position: absolute;
+  width: 194px;
+  height: 38px;
+  top: 61px;
+  left: 0;
+}
+
+.login .img {
+  top: 38px;
+  position: absolute;
+  width: 192px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.login .text-wrapper-2 {
+  position: absolute;
+  width: 86px;
+  top: 224px;
+  left: 376px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .overlap-group-wrapper {
+  position: absolute;
+  width: 92px;
+  height: 27px;
+  top: 186px;
+  left: 371px;
+}
+
+.login .overlap-group {
+  position: relative;
+  width: 90px;
+  height: 27px;
+  background-color: #27b1ff;
+  border-radius: 10px;
+}
+
+.login .text-wrapper-3 {
+  position: absolute;
+  width: 45px;
+  top: 6px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .group-3 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 246px;
+  left: 406px;
+}
