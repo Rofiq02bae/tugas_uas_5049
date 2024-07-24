@@ -1,0 +1,515 @@
+.home-variant-3,
+.home-variant-3 * {
+  box-sizing: border-box;
+}
+.home-variant-3 {
+  height: 1080px;
+  position: relative;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 8, 84, 1) 0%,
+    rgba(152, 0, 119, 1) 100%
+  );
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.navbar {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2 {
+  background: #fffbfb;
+  border-radius: 10px;
+  width: 83.82%;
+  height: 7.78%;
+  position: absolute;
+  right: 7.45%;
+  left: 8.73%;
+  bottom: 84.58%;
+  top: 7.64%;
+}
+.uas {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-5 {
+  background: #00970f;
+  border-radius: 10px;
+  width: 18.53%;
+  height: 17.64%;
+  position: absolute;
+  right: 72.75%;
+  left: 8.73%;
+  bottom: 26.67%;
+  top: 55.69%;
+}
+.rectangle-6 {
+  background: #25d337;
+  border-radius: 10px 10px 0px 0px;
+  width: 18.53%;
+  height: 14.58%;
+  position: absolute;
+  right: 72.75%;
+  left: 8.73%;
+  bottom: 29.72%;
+  top: 55.69%;
+}
+.group-11 {
+  width: 293.65px;
+  height: 79.5px;
+  position: static;
+}
+.group-24 {
+  width: 293.65px;
+  height: 79.5px;
+  position: static;
+}
+.group-23 {
+  width: 99.76px;
+  height: 79.5px;
+  position: static;
+}
+.lucide-book-check {
+  width: 5.2%;
+  height: 7.36%;
+  position: absolute;
+  right: 74.02%;
+  left: 20.78%;
+  bottom: 31.94%;
+  top: 60.69%;
+  overflow: hidden;
+}
+.group {
+  width: 66.67%;
+  height: 83.33%;
+  position: absolute;
+  right: 16.67%;
+  left: 16.67%;
+  bottom: 8.33%;
+  top: 8.33%;
+  overflow: visible;
+}
+.uas2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  right: 84.61%;
+  left: 10.69%;
+  width: 4.71%;
+  bottom: 33.89%;
+  top: 62.64%;
+  height: 3.47%;
+}
+.uts {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-52 {
+  background: #00970f;
+  border-radius: 10px;
+  width: 18.53%;
+  height: 17.64%;
+  position: absolute;
+  right: 51.08%;
+  left: 30.39%;
+  bottom: 26.67%;
+  top: 55.69%;
+}
+.rectangle-62 {
+  background: #25d337;
+  border-radius: 10px 10px 0px 0px;
+  width: 18.53%;
+  height: 14.58%;
+  position: absolute;
+  right: 51.08%;
+  left: 30.39%;
+  bottom: 29.72%;
+  top: 55.69%;
+}
+.lucide-book-check2 {
+  width: 5.2%;
+  height: 7.36%;
+  position: absolute;
+  right: 52.35%;
+  left: 42.45%;
+  bottom: 31.94%;
+  top: 60.69%;
+  overflow: hidden;
+}
+.group2 {
+  width: 66.67%;
+  height: 83.33%;
+  position: absolute;
+  right: 16.67%;
+  left: 16.67%;
+  bottom: 8.33%;
+  top: 8.33%;
+  overflow: visible;
+}
+.uas3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  right: 62.94%;
+  left: 32.35%;
+  width: 4.71%;
+  bottom: 33.89%;
+  top: 62.64%;
+  height: 3.47%;
+}
+.responsi {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-53 {
+  background: #09697e;
+  border-radius: 10px;
+  width: 18.53%;
+  height: 17.64%;
+  position: absolute;
+  right: 29.31%;
+  left: 52.16%;
+  bottom: 26.67%;
+  top: 55.69%;
+}
+.rectangle-63 {
+  background: #01d1ff;
+  border-radius: 10px 10px 0px 0px;
+  width: 18.53%;
+  height: 14.58%;
+  position: absolute;
+  right: 29.31%;
+  left: 52.16%;
+  bottom: 29.72%;
+  top: 55.69%;
+}
+.group-112 {
+  width: 180.71px;
+  height: 37.5px;
+  position: static;
+}
+.group-242 {
+  width: 180.71px;
+  height: 37.5px;
+  position: static;
+}
+.uas4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  right: 36.47%;
+  left: 54.12%;
+  width: 9.41%;
+  bottom: 33.89%;
+  top: 62.64%;
+  height: 3.47%;
+}
+.wpf-ballpointpen {
+  width: 4.51%;
+  height: 6.25%;
+  position: absolute;
+  right: 30.88%;
+  left: 64.61%;
+  bottom: 33.33%;
+  top: 60.42%;
+  overflow: visible;
+}
+.rekap-nilai {
+  position: absolute;
+  inset: 0;
+}
+.group-9 {
+  width: 355.76px;
+  height: 190.5px;
+  position: static;
+}
+.rectangle-54 {
+  background: #0089d7;
+  border-radius: 10px;
+  width: 18.53%;
+  height: 17.64%;
+  position: absolute;
+  right: 72.75%;
+  left: 8.73%;
+  bottom: 50%;
+  top: 32.36%;
+}
+.rectangle-64 {
+  background: #02a4ff;
+  border-radius: 10px 10px 0px 0px;
+  width: 18.53%;
+  height: 14.58%;
+  position: absolute;
+  right: 72.75%;
+  left: 8.73%;
+  bottom: 53.06%;
+  top: 32.36%;
+}
+.group-113 {
+  width: 293.65px;
+  height: 94.5px;
+  position: static;
+}
+.group-10 {
+  width: 105.41px;
+  height: 94.5px;
+  position: static;
+}
+.icon-park-twotone-people {
+  width: 5.49%;
+  height: 8.75%;
+  position: absolute;
+  right: 74.02%;
+  left: 20.49%;
+  bottom: 55.28%;
+  top: 35.97%;
+  overflow: hidden;
+}
+.mask-group {
+  height: auto;
+  position: absolute;
+  left: 13.18px;
+  top: 11.81px;
+  overflow: visible;
+}
+.rekap-nilai2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 79.9%;
+  left: 10.69%;
+  width: 9.41%;
+  bottom: 55.28%;
+  top: 41.81%;
+  height: 2.92%;
+}
+._256 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 85%;
+  left: 10.69%;
+  width: 4.31%;
+  bottom: 59.72%;
+  top: 37.36%;
+  height: 2.92%;
+}
+.materi {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-55 {
+  background: #860000;
+  border-radius: 10px;
+  width: 18.53%;
+  height: 17.64%;
+  position: absolute;
+  right: 51.08%;
+  left: 30.39%;
+  bottom: 50%;
+  top: 32.36%;
+}
+.rectangle-65 {
+  background: #b50000;
+  border-radius: 10px 10px 0px 0px;
+  width: 18.53%;
+  height: 14.58%;
+  position: absolute;
+  right: 51.08%;
+  left: 30.39%;
+  bottom: 53.06%;
+  top: 32.36%;
+}
+.group-114 {
+  width: 301.18px;
+  height: 108px;
+  position: static;
+}
+.group-16 {
+  width: 6.27%;
+  height: 10%;
+  position: absolute;
+  right: 51.96%;
+  left: 41.76%;
+  bottom: 53.89%;
+  top: 36.11%;
+  overflow: visible;
+}
+.materi2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 58.24%;
+  left: 32.35%;
+  width: 9.41%;
+  bottom: 55.28%;
+  top: 41.81%;
+  height: 2.92%;
+}
+._11 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 63.33%;
+  left: 32.35%;
+  width: 4.31%;
+  bottom: 59.72%;
+  top: 37.36%;
+  height: 2.92%;
+}
+.presensi {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-56 {
+  background: #a05700;
+  border-radius: 10px;
+  width: 18.53%;
+  height: 17.64%;
+  position: absolute;
+  right: 29.41%;
+  left: 52.06%;
+  bottom: 50%;
+  top: 32.36%;
+}
+.rectangle-66 {
+  background: #e7b000;
+  border-radius: 10px 10px 0px 0px;
+  width: 18.53%;
+  height: 14.58%;
+  position: absolute;
+  right: 29.41%;
+  left: 52.06%;
+  bottom: 53.06%;
+  top: 32.36%;
+}
+.group-115 {
+  width: 288px;
+  height: 82.5px;
+  position: static;
+}
+.group-21 {
+  width: 5%;
+  height: 7.64%;
+  position: absolute;
+  right: 30.88%;
+  left: 64.12%;
+  bottom: 55.28%;
+  top: 37.08%;
+  overflow: visible;
+}
+.presensi2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 36.47%;
+  left: 54.12%;
+  width: 9.41%;
+  bottom: 55.28%;
+  top: 41.81%;
+  height: 2.92%;
+}
+.group-15 {
+  position: absolute;
+  inset: 0;
+}
+.jadwal {
+  width: 355.76px;
+  height: 190.5px;
+  position: static;
+}
+.rectangle-57 {
+  background: #67a600;
+  border-radius: 10px;
+  width: 18.53%;
+  height: 17.64%;
+  position: absolute;
+  right: 7.45%;
+  left: 74.02%;
+  bottom: 50%;
+  top: 32.36%;
+}
+.rectangle-67 {
+  background: #95f100;
+  border-radius: 10px 10px 0px 0px;
+  width: 18.53%;
+  height: 14.58%;
+  position: absolute;
+  right: 7.45%;
+  left: 74.02%;
+  bottom: 53.06%;
+  top: 32.36%;
+}
+.group-116 {
+  width: 276.71px;
+  height: 82.5px;
+  position: static;
+}
+.group-20 {
+  width: 3.73%;
+  height: 6.81%;
+  position: absolute;
+  right: 9.61%;
+  left: 86.67%;
+  bottom: 56.11%;
+  top: 37.08%;
+  overflow: visible;
+}
+.jadwal2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 14.61%;
+  left: 75.98%;
+  width: 9.41%;
+  bottom: 55.28%;
+  top: 41.81%;
+  height: 2.92%;
+}
+.akar-icons-three-line-horizontal {
+  width: 3.82%;
+  height: 5.14%;
+  position: absolute;
+  right: 85.98%;
+  left: 10.2%;
+  bottom: 85.83%;
+  top: 9.03%;
+  overflow: visible;
+}
